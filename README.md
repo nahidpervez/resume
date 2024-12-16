@@ -3,7 +3,6 @@
 San Francisco Bay Area  
 [LinkedIn](https://www.linkedin.com/in/nahid-pervez-61218450) | nahidpervez@gmail.com | (616) 666-0811  
 
-## **Professional summary**  
 Visionary engineering leader with extensive experience in autonomous driving, embedded systems, mapping, localization, and big data. Expertise in building high-performing teams and delivering innovative solutions that meet stringent automotive safety standards. Proven track record of leading end-to-end projects from conceptualization to production.
 
 ## **Professional experience**
@@ -56,6 +55,12 @@ Visionary engineering leader with extensive experience in autonomous driving, em
   *February 2011 – July 2011*  
   - Performed process optimization for jute mills across Bangladesh, increasing production efficiency through data analysis and manpower studies.
 
+## **Technical skills**  
+- Embedded Software Development  
+- Mapping and Localization  
+- Big Data Analytics  
+- AI/ML and Federated Learning  
+- Automotive Functional Safety (ASIL)
 
 ## **Education**
 
@@ -65,14 +70,10 @@ Visionary engineering leader with extensive experience in autonomous driving, em
 - **Bangladesh University of Engineering and Technology**  
   B.Sc., Mechanical Engineering (*2006 – 2011*)
 
-
-## **Technical skills**  
-- Embedded Software Development  
-- Mapping and Localization  
-- Big Data Analytics  
-- AI/ML and Federated Learning  
-- Automotive Functional Safety (ASIL)
-
+## **Publications**  
+- Ford Highway Driving RTK Dataset: 30,000 km of North American Highways  
+- CFD Study of a Darrieus Vertical Axis Wind Turbine  
+- Underbody Drag for Pickup Trucks
 
 ## **Patents**  
 - Vehicle Pose Estimation  
@@ -84,7 +85,3 @@ Visionary engineering leader with extensive experience in autonomous driving, em
 - Machine Learning  
 
 
-## **Publications**  
-- Ford Highway Driving RTK Dataset: 30,000 km of North American Highways  
-- CFD Study of a Darrieus Vertical Axis Wind Turbine  
-- Underbody Drag for Pickup Trucks
