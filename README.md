@@ -8,74 +8,70 @@ Visionary engineering leader with extensive experience in robotic systems, sw en
 ## **Professional experience**
 
 ### **Ford Motor Company**  
-
 - **Director, Mapping and Localization**  
   San Francisco Bay Area | *June 2024 – Present*  
   - Spearheading the development of cutting-edge mapping and localization solutions for autonomous driving.  
   - Leading strategic initiatives to optimize routing, environmental modeling, and high-precision localization systems.
+  - Leading a team of 40 engineers
+  - Perception, Mapping and Plannig stack execution for global high volume vehicle line 
+  - Vehicle level integration of robotics stack
   - Navigation 
-  - IVI system integration
-
+  - Andoroid based infotainment system integration
+  - Design multi tenant architecutre for embedded ECU
 - **Manager, Autonomy – Mapping and Localization**  
   San Francisco Bay Area | *September 2022 – June 2024*  
-  - Built and led a multidisciplinary organization focused on maps, localization, and environmental modeling from ground up.
+  - Built and led a multidisciplinary organization of 20 engineers focused on maps, localization, and environmental modeling from ground up.
   - Directed advanced R&D in AI/ML, federated learning, and embedded systems to enhance autonomous driving capabilities.  
   - High definition maps
-  - Robotics software stack design for low cost high volume compute
   - Map based path planning design for low power compute
+  - Robotics software stack design for low cost high volume compute
   - Robotics middleware, sofrware and simulation
-
+  - Design distributed architecutre on adaptive, classic autosar stack
 - **Supervisor, Partial Autonomy**  
   San Francisco Bay Area | *December 2019 – September 2022*  
   - Delivered safe, reliable autonomy features for mass-market vehicles.  
-  - Led cross-functional teams in AI-driven perception, mapping, localization, and next-gen driver-assistance systems.  
+  - Built and led cross-functional team of 10 in AI-driven perception, mapping, localization, and next-gen driver-assistance systems.  
   - L3 map system architecture design
-
 - **Research Engineer – Autonomous Vehicles**  
   San Francisco Bay Area | *July 2018 – December 2019*  
   - Developed and integrated software solutions for automated driving systems.  
   - Architected cloud-connected automated driving solutions.  
   - ODD determination of Blue Cruise
-
 - **Programmer / Calibration Engineer**  
   Dearborn, MI | *July 2013 – June 2018*  
   - Pioneered big data analytics tools to enhance powertrain calibration.  
   - Calibrated advanced safety-critical systems for torque management and OBD II systems.  
   - Managed fleet data collection and system validation for control systems calibration.
-
-
 ### **Grand Valley State University**  
 - **Graduate Assistant**  
 Grand Rapids, MI | *August 2011 – July 2013*  
   - Developed software tools to estimate energy potential from wind data as part of the Lake Michigan Wind Energy project.  
   - Published research in renewable energy optimization.
-
-
 ### **Engine Power Components**  
 - **Intern**  
   Grand Haven, MI | *January 2013 – April 2013*  
   - Optimized SCADA systems for manufacturing processes and standardized workflows.
-
-
 ### **Bangladesh University of Engineering and Technology**  
 - **Project Engineer**  
   Dhaka, Bangladesh *February 2011 – July 2011*  
   - Performed process optimization for jute mills across Bangladesh, increasing production efficiency through data analysis and manpower studies.
 
 ## **Technical skills**  
-- Maps for autonomous driving solutions
+- Multi-displinary team building
+- Enigneering leadership and management
+- Maps for autonomous driving
 - Robotics software development
-- GNSS, INS, IMU and other postitioning and state estimation systems
-- Automotive Functional Safety
+- Software defined vehicle
+- Autosar, Adaptive Autosar
+- Automotive functional safety
 - Machine learning pipeline development, AI/ML and Federated Learning  
+- GNSS, INS, IMU and other postitioning and state estimation systems
 - Geospatial data stack
 - Metrics driven robotics development
 
 ## **Education**
-
 - **Grand Valley State University**  
   M.Sc., Mechanical Engineering (*2011 – 2013*)  
-
 - **Bangladesh University of Engineering and Technology**  
   B.Sc., Mechanical Engineering (*2006 – 2011*)
 
@@ -88,9 +84,5 @@ Grand Rapids, MI | *August 2011 – July 2013*
 - Vehicle Pose Estimation  
 - Distance Transform-based Vehicle Localization for Highways  
 - Path Planning with GNSS Error Predictions  
-
-
-## **Certifications**  
-- Machine Learning  
 
 
